@@ -34,9 +34,9 @@ __Step2.__
 __Step3.__
 
     kubectl apply -f secret-for-all-env-pod.yml
-[secret-for-all-env-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/Secret-declaratively.yml)
+[secret-for-all-env-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/secret-for-all-env-pod.yml)
 
 __Setp4.__
 
     kubectl apply -f secret-for-one-env-pod.yml
-[secret-for-one-env-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/Secret-declaratively.yml)
+[secret-for-one-env-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/secret-for-one-env-pod.yml)
