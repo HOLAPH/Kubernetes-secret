@@ -13,14 +13,14 @@
 
 # Answer
 
-Step1.
+__Step1.__
 
  * kubectl create secret generic imperative-secret  \
  --from-literal=username=admin \
  --from-literal=password='changeme'
  
-Step2.
+__Step2.__
 
 kubectl apply -f Secret-declaratively.yml
 
-NOTE: You can only put base64 value in yml file for username and password.
+*NOTE: You can only put base64 value in yml file for username and password.*
