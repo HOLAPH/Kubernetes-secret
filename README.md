@@ -13,9 +13,7 @@
 
 # Answer
 
-![Main](https://i.gifer.com/tiJ.gif)
-
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 __Step1.__
 
