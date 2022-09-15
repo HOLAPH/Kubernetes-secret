@@ -9,9 +9,10 @@
 2. As a Single ENV
 3. As Volume
 
----
 
 # Answer
+
+---
 
 __Step1.__
 
@@ -24,3 +25,7 @@ __Step2.__
     kubectl apply -f Secret-declaratively.yml
 
 *NOTE: You can only put base64 value in yml file for username and password.*
+
+---
+
+__Step3.__
