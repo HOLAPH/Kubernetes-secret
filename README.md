@@ -21,7 +21,7 @@ __Step1.__
  
 __Step2.__
 
-    kubectl apply -f Secret-declaratively.yml
+    kubectl apply -f [Secret-declaratively.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/Secret-declaratively.yml)
 
 *NOTE: You can only put base64 value in yml file for username and password.*
 
