@@ -5,9 +5,9 @@
 2. try creating declaratively
 
 ## Inject secrets into your nginx pod using all the below ways:
-1. As an ENV ( All secrets as an env variable )
-2. As a Single ENV
-3. As Volume
+3. As an ENV ( All secrets as an env variable )
+4. As a Single ENV
+5. As Volume
 
 ---
 
@@ -32,3 +32,11 @@ __Step2.__
 
 
 __Step3.__
+
+    kubectl apply -f secret-for-all-env-pod.yml
+[secret-for-all-env-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/Secret-declaratively.yml)
+
+__Setp4.__
+
+    kubectl apply -f secret-for-one-env-pod.yml
+[secret-for-one-env-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/Secret-declaratively.yml)
