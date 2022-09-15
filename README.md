@@ -13,7 +13,7 @@
 
 # Answer
 
-![Main](https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif)
+![Main](https://i.gifer.com/tiJ.gif)
 
 
 
@@ -30,6 +30,7 @@ __Step2.__
 [Secret-declaratively.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/Secret-declaratively.yml)
 
 *NOTE: You can only put base64 value in yml file for username and password.*
+
 
 
 __Step3.__
