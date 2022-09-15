@@ -40,3 +40,8 @@ __Setp4.__
 
     kubectl apply -f secret-for-one-env-pod.yml
 [secret-for-one-env-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/secret-for-one-env-pod.yml)
+
+__Setp5.__
+
+    kubectl apply -f secret-as-volume-for-pod.yml
+[secret-as-volume-for-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/secret-for-one-env-pod.yml)    
