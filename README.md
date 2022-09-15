@@ -44,4 +44,4 @@ __Setp4.__
 __Setp5.__
 
     kubectl apply -f secret-as-volume-for-pod.yml
-[secret-as-volume-for-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/secret-for-one-env-pod.yml)    
+[secret-as-volume-for-pod.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/secret-as-volume-for-pod.yml)    
