@@ -13,6 +13,8 @@
 
 # Answer
 
+![Main](https://giphy.com/gifs/mlb-sports-baseball-dodgers-wz6MqAGsRpc0qbZa4a)
+
 __Step1.__
 
     kubectl create secret generic imperative-secret  \
@@ -22,7 +24,7 @@ __Step1.__
 __Step2.__
 
     kubectl apply -f Secret-declaratively.yml
-    
+
 [Secret-declaratively.yml](https://github.com/HOLAPH/Kubernetes-secret/blob/main/Secret-declaratively.yml)
 
 *NOTE: You can only put base64 value in yml file for username and password.*
