@@ -13,9 +13,7 @@
 
 # Answer
 
-![](http://i.gifer.com/4j.gif)
-
-
+![](https://media.giphy.com/media/wz6MqAGsRpc0qbZa4a/giphy.gif)
 
 __Step1.__
 
