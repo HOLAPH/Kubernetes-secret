@@ -15,7 +15,7 @@
 
 __Step1.__
 
-    kubectl create secret generic imperative-secret  \
+  kubectl create secret generic imperative-secret  \
     --from-literal=username=admin \ 
     --from-literal=password='changeme'
  
