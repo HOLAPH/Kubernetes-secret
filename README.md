@@ -13,7 +13,7 @@
 
 # Answer
 
-![](https://media.giphy.com/media/wz6MqAGsRpc0qbZa4a/giphy.gif)
+![](https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif)
 
 __Step1.__
 
